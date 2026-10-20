@@ -1,0 +1,19 @@
+src/packages/noticebar/noticebar.scss
+  s_ed01f2b162ae29::t_2d7a92ae37304c 217-264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a618ab9e0b9a654edd3d0b76f60680544e42d794",
+  "prompts": {},
+  "sessions": {
+    "s_ed01f2b162ae29": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15884-a98c-7751-af06-04c245655b4c",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
