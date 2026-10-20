@@ -1,0 +1,53 @@
+src/packages/noticebar/__test__/noticebar.spec.tsx
+  s_ed01f2b162ae29::t_f5a8118e8e04a0 436,446,455
+src/packages/noticebar/demos/h5/demo15.tsx
+  s_ed01f2b162ae29::t_64be4e00bd696a 9,18
+src/packages/noticebar/demos/h5/demo16.tsx
+  s_ed01f2b162ae29::t_01ddc619375bba 12,28
+src/packages/noticebar/demos/h5/demo17.tsx
+  s_ed01f2b162ae29::t_036c9bdb2f2281 12,28
+src/packages/noticebar/demos/h5/demo18.tsx
+  s_ed01f2b162ae29::t_b316cdab8b35ea 13,36
+src/packages/noticebar/demos/h5/demo20.tsx
+  s_ed01f2b162ae29::t_615d1f38e141dc 9,21
+src/packages/noticebar/demos/taro/demo15.tsx
+  s_ed01f2b162ae29::t_c5473c6b62949c 10,19
+src/packages/noticebar/demos/taro/demo16.tsx
+  s_ed01f2b162ae29::t_187b2f1f9454e0 13,29
+src/packages/noticebar/demos/taro/demo17.tsx
+  s_ed01f2b162ae29::t_3130fcbc3182ce 13,29
+src/packages/noticebar/demos/taro/demo18.tsx
+  s_ed01f2b162ae29::t_d8c63d5b39f3fc 14,37
+src/packages/noticebar/demos/taro/demo20.tsx
+  s_ed01f2b162ae29::t_8a0f4ccc8b9aad 10,22
+src/packages/noticebar/noticebar.scss
+  s_ed01f2b162ae29::t_c3232b20c29e9f 220-223
+src/packages/noticebar/noticebar.taro.tsx
+  s_ed01f2b162ae29::t_e8a0de8cfdf6d5 720-734
+src/packages/noticebar/noticebar.tsx
+  s_ed01f2b162ae29::t_fed542bd32fdf7 697-711
+src/styles/variables-daojia.scss
+  s_ed01f2b162ae29::t_ef232282ab91b5 1252-1255
+src/styles/variables-jmapp.scss
+  s_ed01f2b162ae29::t_8fdefebb7ea300 2070-2073
+src/styles/variables-jrkf.scss
+  s_ed01f2b162ae29::t_afb94cca6661ec 2162-2165
+src/styles/variables.scss
+  s_ed01f2b162ae29::t_755f633c625c97 2012-2015
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6ec709100b859df391b127518d6131cc27f25dbd",
+  "prompts": {},
+  "sessions": {
+    "s_ed01f2b162ae29": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15884-a98c-7751-af06-04c245655b4c",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
