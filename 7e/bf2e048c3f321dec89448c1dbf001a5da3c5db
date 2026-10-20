@@ -1,0 +1,14 @@
+src/packages/configprovider/types.ts
+  h_2c3c1de054c74d 686-731
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7ebf2e048c3f321dec89448c1dbf001a5da3c5db",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
