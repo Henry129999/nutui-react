@@ -1,0 +1,31 @@
+src/packages/noticebar/demo.scss
+  s_ed01f2b162ae29::t_22866ef43f48e7 10-22
+src/packages/noticebar/demo.taro.tsx
+  s_ed01f2b162ae29::t_9e885a7c3c37a5 26-27,50-51,72-73,124-127
+src/packages/noticebar/demo.tsx
+  s_ed01f2b162ae29::t_a719f337b57034 22-23,46-47,68-69,114-117
+src/packages/noticebar/demos/h5/demo19.tsx
+  s_ed01f2b162ae29::t_ddd713dd92c154 1-23
+src/packages/noticebar/demos/h5/demo20.tsx
+  s_ed01f2b162ae29::t_d17878b01898ca 1-32
+src/packages/noticebar/demos/taro/demo19.tsx
+  s_ed01f2b162ae29::t_4b79af96f624a5 1-24
+src/packages/noticebar/demos/taro/demo20.tsx
+  s_ed01f2b162ae29::t_eb1b66c5f2803c 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9ea6f2b8fb01e119dc2f2e8ad2364dee283d4142",
+  "prompts": {},
+  "sessions": {
+    "s_ed01f2b162ae29": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15884-a98c-7751-af06-04c245655b4c",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
