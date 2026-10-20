@@ -1,16 +1,50 @@
+src/packages/noticebar/demos/taro/demo17.tsx
+  s_ed01f2b162ae29::t_5036353b3bf87e 1-56
+src/packages/noticebar/demos/taro/demo20.tsx
+  s_ed01f2b162ae29::t_eb1b66c5f2803c 1-33
+src/packages/noticebar/demos/h5/demo20.tsx
+  s_ed01f2b162ae29::t_d17878b01898ca 1-32
+src/packages/noticebar/demos/taro/demo16.tsx
+  s_ed01f2b162ae29::t_b29a36ad374e1a 1-43
+src/packages/noticebar/demo.tsx
+  s_ed01f2b162ae29::t_63b6f1c4355fd0 20-21,44-45,66-67,110-113
+  s_ed01f2b162ae29::t_a719f337b57034 22-23,46-47,68-69,114-117
+  s_ed01f2b162ae29::t_af4315c5824cd2 18-19,42-43,64-65,106-109
+src/packages/noticebar/demos/taro/demo18.tsx
+  s_ed01f2b162ae29::t_0908c1b750d232 1-62
+src/packages/noticebar/demo.scss
+  s_ed01f2b162ae29::t_22866ef43f48e7 10-22
+src/packages/noticebar/demos/h5/demo15.tsx
+  s_ed01f2b162ae29::t_1f81609726f208 1-31
 src/packages/noticebar/__test__/noticebar.spec.tsx
   s_ed01f2b162ae29::t_e4119e2909ae91 684-711
+src/packages/noticebar/demos/h5/demo18.tsx
+  s_ed01f2b162ae29::t_7f1d0dacedb942 1-61
 src/packages/noticebar/noticebar.scss
   s_ed01f2b162ae29::t_f36ce93e5d297b 168-169,172-173
-src/packages/noticebar/noticebar.taro.tsx
-  s_ed01f2b162ae29::t_42dfe37eb64d3b 543-554
 src/packages/noticebar/noticebar.tsx
   s_ed01f2b162ae29::t_e4879e8dfdaf61 525-536
+src/packages/noticebar/demo.taro.tsx
+  s_ed01f2b162ae29::t_9e885a7c3c37a5 26-27,50-51,72-73,124-127
+  s_ed01f2b162ae29::t_eed0e4e91ee00b 22-23,46-47,68-69,116-119
+  s_ed01f2b162ae29::t_d49b32c91e4962 24-25,48-49,70-71,120-123
+src/packages/noticebar/demos/h5/demo16.tsx
+  s_ed01f2b162ae29::t_75151ad44f9b3a 1-42
+src/packages/noticebar/demos/taro/demo19.tsx
+  s_ed01f2b162ae29::t_4b79af96f624a5 1-24
+src/packages/noticebar/demos/taro/demo15.tsx
+  s_ed01f2b162ae29::t_d2586f14182dfd 1-32
+src/packages/noticebar/demos/h5/demo17.tsx
+  s_ed01f2b162ae29::t_9542f48a607bf4 1-55
+src/packages/noticebar/noticebar.taro.tsx
+  s_ed01f2b162ae29::t_42dfe37eb64d3b 543-554
+src/packages/noticebar/demos/h5/demo19.tsx
+  s_ed01f2b162ae29::t_ddd713dd92c154 1-23
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "2d416ef9492c52eb04d2d75bd6c00497a728b189",
+  "base_commit_sha": "85f440c3f3b68b4b203ea5ab441e128e30da6748",
   "prompts": {},
   "sessions": {
     "s_ed01f2b162ae29": {
