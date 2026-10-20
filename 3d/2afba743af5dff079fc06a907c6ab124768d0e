@@ -1,0 +1,25 @@
+src/styles/variables-daojia.scss
+  s_ed01f2b162ae29::t_b7d1c2eab03b37 1252-1304
+src/styles/variables-jmapp.scss
+  s_ed01f2b162ae29::t_8e81b4b661236a 2081-2133
+src/styles/variables-jrkf.scss
+  s_ed01f2b162ae29::t_a7bb17707230aa 2173-2225
+src/styles/variables.scss
+  s_ed01f2b162ae29::t_0f619e76df5efd 2064-2242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3d2afba743af5dff079fc06a907c6ab124768d0e",
+  "prompts": {},
+  "sessions": {
+    "s_ed01f2b162ae29": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15884-a98c-7751-af06-04c245655b4c",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
