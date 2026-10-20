@@ -1,0 +1,25 @@
+src/packages/noticebar/__test__/noticebar.spec.tsx
+  s_ed01f2b162ae29::t_e4119e2909ae91 684-711
+src/packages/noticebar/noticebar.scss
+  s_ed01f2b162ae29::t_f36ce93e5d297b 168-169,172-173
+src/packages/noticebar/noticebar.taro.tsx
+  s_ed01f2b162ae29::t_42dfe37eb64d3b 543-554
+src/packages/noticebar/noticebar.tsx
+  s_ed01f2b162ae29::t_e4879e8dfdaf61 525-536
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2d416ef9492c52eb04d2d75bd6c00497a728b189",
+  "prompts": {},
+  "sessions": {
+    "s_ed01f2b162ae29": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15884-a98c-7751-af06-04c245655b4c",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
