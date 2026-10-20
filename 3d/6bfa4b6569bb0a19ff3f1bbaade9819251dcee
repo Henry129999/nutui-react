@@ -1,0 +1,29 @@
+src/packages/noticebar/demo.taro.tsx
+  s_ed01f2b162ae29::t_eed0e4e91ee00b 22-23,42-43,60-61,104-107
+src/packages/noticebar/demo.tsx
+  s_ed01f2b162ae29::t_af4315c5824cd2 18-19,38-39,56-57,94-97
+src/packages/noticebar/demos/h5/demo15.tsx
+  s_ed01f2b162ae29::t_1f81609726f208 1-31
+src/packages/noticebar/demos/h5/demo16.tsx
+  s_ed01f2b162ae29::t_75151ad44f9b3a 1-42
+src/packages/noticebar/demos/taro/demo15.tsx
+  s_ed01f2b162ae29::t_d2586f14182dfd 1-32
+src/packages/noticebar/demos/taro/demo16.tsx
+  s_ed01f2b162ae29::t_b29a36ad374e1a 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3d6bfa4b6569bb0a19ff3f1bbaade9819251dcee",
+  "prompts": {},
+  "sessions": {
+    "s_ed01f2b162ae29": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15884-a98c-7751-af06-04c245655b4c",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
