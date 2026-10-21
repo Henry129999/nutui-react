@@ -1,0 +1,65 @@
+src/packages/noticebar/__test__/noticebar.spec.tsx
+  s_89b86e70c084e7::t_cb62ae60a95b12 152,164,169-181,183-190,193-199
+src/packages/noticebar/demo.taro.tsx
+  s_89b86e70c084e7::t_7803d2efaccbcf 26,40,62
+src/packages/noticebar/demo.tsx
+  s_89b86e70c084e7::t_b61dcf780e6483 21,34,51
+src/packages/noticebar/demos/h5/demo1.tsx
+  s_89b86e70c084e7::t_cbf956f10f2178 5
+src/packages/noticebar/demos/h5/demo12.tsx
+  s_89b86e70c084e7::t_1c54b5b6195226 9,20-21,32-33
+src/packages/noticebar/demos/h5/demo3.tsx
+  s_182ef4b1cb7cdd::t_8c491622e5f772 4-31
+src/packages/noticebar/demos/taro/demo1.tsx
+  s_89b86e70c084e7::t_c5ea03975a9c0a 5
+src/packages/noticebar/demos/taro/demo12.tsx
+  s_89b86e70c084e7::t_68e2bdc185bf29 10,21-22,33-34
+src/packages/noticebar/demos/taro/demo3.tsx
+  s_182ef4b1cb7cdd::t_c6fccd1ffa787a 5-32
+src/packages/noticebar/doc.en-US.md
+  s_89b86e70c084e7::t_18399cac8ef5a0 21,23,177
+src/packages/noticebar/doc.md
+  s_89b86e70c084e7::t_4c95e95127a4bc 21,23,179
+src/packages/noticebar/doc.taro.md
+  s_89b86e70c084e7::t_94d65975e73096 21,23,177
+src/packages/noticebar/doc.zh-TW.md
+  s_89b86e70c084e7::t_83b5c9dbfb264d 21,23,177
+src/packages/noticebar/noticebar.scss
+  s_89b86e70c084e7::t_a245185b29f38a 276-293,413,431,436,439
+src/packages/noticebar/noticebar.taro.tsx
+  s_89b86e70c084e7::t_0abce3a676f7a9 15,122-125,207,215-220,281-336,338-356,384-385,388-392,828
+src/packages/noticebar/noticebar.tsx
+  s_89b86e70c084e7::t_c363867ed19fd3 13,115-118,200,208-213,264-316,318,321-322,325-332,360-361,364-368,797
+src/styles/variables-daojia.scss
+  s_89b86e70c084e7::t_aedc73dab87f61 1237
+src/styles/variables-jmapp.scss
+  s_89b86e70c084e7::t_b7e315ff951dd7 2055
+src/styles/variables-jrkf.scss
+  s_89b86e70c084e7::t_6e60dc8f843109 2147
+src/styles/variables.scss
+  s_89b86e70c084e7::t_823da3c976fa2f 1997
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e5f67c3a3d332df8091df331b4bf2a45198c4138",
+  "prompts": {},
+  "sessions": {
+    "s_182ef4b1cb7cdd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15c47-3b0a-7981-94eb-db6f383f3c6c",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    },
+    "s_89b86e70c084e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15c74-758e-7210-9d98-8e2c88b6e652",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
