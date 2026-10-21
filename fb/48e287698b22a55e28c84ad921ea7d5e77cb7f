@@ -1,0 +1,64 @@
+src/packages/tabbar/demos/h5/demo1.tsx
+  h_2c3c1de054c74d 3
+  s_20d34c7e0b9a1a::t_88ca1748e830f2 4-13,17-21,24-32
+src/packages/tabbar/demos/h5/demo9.tsx
+  h_2c3c1de054c74d 4-13,29-31,47,51-59
+  s_20d34c7e0b9a1a::t_e0b88076610ce1 3,14,32-42,48-50
+src/packages/tabbar/demos/h5/demo10.tsx
+  s_20d34c7e0b9a1a::t_a2da0f695b85c9 2-11,48-63
+src/packages/tabbar/demos/h5/demo11.tsx
+  s_20d34c7e0b9a1a::t_4f8beccc5f0c3d 2-13,69-88
+src/packages/tabbar/demos/h5/demo2.tsx
+  s_20d34c7e0b9a1a::t_0658608cd3d779 3-13,17-37
+src/packages/tabbar/demos/h5/demo3.tsx
+  s_20d34c7e0b9a1a::t_bb37a059f2058a 3-13,17-53
+src/packages/tabbar/demos/h5/demo5.tsx
+  s_20d34c7e0b9a1a::t_3dd9f8b63e39e0 3,19,26,36-43
+src/packages/tabbar/demos/h5/demo6.tsx
+  s_20d34c7e0b9a1a::t_ed4c567040175f 3,12-23,31-38,47-56
+src/packages/tabbar/demos/h5/demo7.tsx
+  s_20d34c7e0b9a1a::t_1bd96b65b907dc 3-11,23-35
+src/packages/tabbar/demos/h5/demo8.tsx
+  s_20d34c7e0b9a1a::t_12dd29977b3ab7 3-13,17-21,24,28,31-34
+src/packages/tabbar/demos/taro/demo1.tsx
+  s_20d34c7e0b9a1a::t_de6a3bff4f691e 3-13,17-21,24-32
+src/packages/tabbar/demos/taro/demo10.tsx
+  s_20d34c7e0b9a1a::t_1d708fb4ac24e2 3-12,45-60
+src/packages/tabbar/demos/taro/demo11.tsx
+  s_20d34c7e0b9a1a::t_497855ced048a7 3-14,77-96
+src/packages/tabbar/demos/taro/demo2.tsx
+  s_20d34c7e0b9a1a::t_005af76bfe6afa 3-13,17-37
+src/packages/tabbar/demos/taro/demo3.tsx
+  s_20d34c7e0b9a1a::t_7d1a0129acb66a 3-13,17-23
+src/packages/tabbar/demos/taro/demo5.tsx
+  s_20d34c7e0b9a1a::t_873ab047c4420a 3,28,35,45-52
+src/packages/tabbar/demos/taro/demo6.tsx
+  s_20d34c7e0b9a1a::t_740b0055f15a93 3-10,19-30,38-45,54-63
+src/packages/tabbar/demos/taro/demo7.tsx
+  s_20d34c7e0b9a1a::t_d03aa8ddffdf51 3-11,23-35
+src/packages/tabbar/demos/taro/demo8.tsx
+  s_20d34c7e0b9a1a::t_ec4b18b36004ff 3-13,17-21,24,28,31-34
+src/packages/tabbar/demos/taro/demo9.tsx
+  s_20d34c7e0b9a1a::t_ec7a438dfd288d 3-14,29-41,46-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fb48e287698b22a55e28c84ad921ea7d5e77cb7f",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_20d34c7e0b9a1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15e5c-6563-7d61-bbd1-6b853caecf28",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
