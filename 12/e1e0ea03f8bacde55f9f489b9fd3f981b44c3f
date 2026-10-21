@@ -1,0 +1,42 @@
+src/packages/noticebar/__test__/noticebar.spec.tsx
+  s_89b86e70c084e7::t_0396abd57a355b 556-558,625,637-690,699-700
+src/packages/noticebar/demo.scss
+  s_89b86e70c084e7::t_cee2ceb294a622 11-26,29-33,38,42,46-47,49,52,57-64,71,77,89-93,95-107,111-134
+src/packages/noticebar/noticebar.scss
+  s_89b86e70c084e7::t_829c231eb2907f 86,91,115-116,186,188-189,196-197,263,266-270,275-288,292,338-372,374,378-380,382-394,412,414-417,434-436,438,453-473,483,487-491,494-503,507-509,514-560,569,579,586
+src/packages/noticebar/noticebar.taro.tsx
+  s_89b86e70c084e7::t_e0b90009efd67c 89,97,104,585,643,717-721,723-735
+src/packages/noticebar/noticebar.tsx
+  s_89b86e70c084e7::t_b49436c0579a6d 87,95,102,559,617,691-695,697-709
+src/styles/variables-daojia.scss
+  s_89b86e70c084e7::t_a600c2a33b25f7 1298
+src/styles/variables-jmapp.scss
+  s_89b86e70c084e7::t_d0aa5152cb9fb8 2116
+src/styles/variables-jrkf.scss
+  s_89b86e70c084e7::t_646af0a6b87010 2208
+src/styles/variables.scss
+  s_89b86e70c084e7::t_b39784cfbc5310 2168
+src/types/spec/noticebar/base.ts
+  s_89b86e70c084e7::t_d5168c547df2c9 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "12e1e0ea03f8bacde55f9f489b9fd3f981b44c3f",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_89b86e70c084e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15c74-758e-7210-9d98-8e2c88b6e652",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
