@@ -1,0 +1,14 @@
+src/packages/tabbar/demos/addon-before-assets.ts
+  h_2c3c1de054c74d 2,5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fa885fc239d15a9102bf86fcd1b47be70b9475ac",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
