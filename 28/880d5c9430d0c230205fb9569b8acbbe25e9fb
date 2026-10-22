@@ -1,0 +1,122 @@
+.github/workflows/release-beta.yml
+  h_2c3c1de054c74d 23,25-29,31,33-41,44,47,49,51-52,56-57,75-76,81,85-99
+.github/workflows/release.yml
+  h_2c3c1de054c74d 6-7,13-14,28,31-32,36,52-53,57
+CHANGELOG.md
+  h_2c3c1de054c74d 1-11
+package.json
+  h_2c3c1de054c74d 3
+scripts/build-comments-to-dts.mjs
+  h_2c3c1de054c74d 188-189
+src/packages/actionsheet/demo.taro.tsx
+  h_2c3c1de054c74d 22,29,36
+src/packages/actionsheet/demo.tsx
+  h_2c3c1de054c74d 19,26,33
+src/packages/actionsheet/demos/h5/demo7.tsx
+  h_2c3c1de054c74d 4-40,44-45,69-86,90,101,113-135
+src/packages/actionsheet/demos/taro/demo7.tsx
+  h_2c3c1de054c74d 2-38,43-44,68-87,91,102,114-137
+src/packages/actionsheet/doc.en-US.md
+  h_2c3c1de054c74d 65,67
+src/packages/actionsheet/doc.md
+  h_2c3c1de054c74d 65,67
+src/packages/actionsheet/doc.taro.md
+  h_2c3c1de054c74d 65,67
+src/packages/actionsheet/doc.zh-TW.md
+  h_2c3c1de054c74d 65,67
+src/packages/input/demos/h5/demo1.tsx
+  h_2c3c1de054c74d 2,6,10
+src/packages/input/demos/h5/demo10.tsx
+  h_2c3c1de054c74d 2,7-16
+src/packages/input/demos/h5/demo11.tsx
+  h_2c3c1de054c74d 2,6-11
+src/packages/input/demos/h5/demo12.tsx
+  h_2c3c1de054c74d 2,7,9
+src/packages/input/demos/h5/demo13.tsx
+  h_2c3c1de054c74d 2,7-25,27
+src/packages/input/demos/h5/demo14.tsx
+  h_2c3c1de054c74d 2,6,14
+src/packages/input/demos/h5/demo15.tsx
+  h_2c3c1de054c74d 2,6-11
+src/packages/input/demos/h5/demo16.tsx
+  h_2c3c1de054c74d 2,6-12
+src/packages/input/demos/h5/demo2.tsx
+  h_2c3c1de054c74d 2,6,8
+src/packages/input/demos/h5/demo3.tsx
+  h_2c3c1de054c74d 2,7,13
+src/packages/input/demos/h5/demo4.tsx
+  h_2c3c1de054c74d 2,6-13
+src/packages/input/demos/h5/demo5.tsx
+  h_2c3c1de054c74d 2,6-11
+src/packages/input/demos/h5/demo6.tsx
+  h_2c3c1de054c74d 2,7-12
+src/packages/input/demos/h5/demo7.tsx
+  h_2c3c1de054c74d 2,7-25
+src/packages/input/demos/h5/demo8.tsx
+  h_2c3c1de054c74d 2,7-23,25
+src/packages/input/demos/h5/demo9.tsx
+  h_2c3c1de054c74d 2,8,10-15,17-29,31
+src/packages/input/demos/taro/demo1.tsx
+  h_2c3c1de054c74d 2,6,10
+src/packages/input/demos/taro/demo10.tsx
+  h_2c3c1de054c74d 2,7-16
+src/packages/input/demos/taro/demo11.tsx
+  h_2c3c1de054c74d 2,6-11
+src/packages/input/demos/taro/demo12.tsx
+  h_2c3c1de054c74d 2,6,8
+src/packages/input/demos/taro/demo13.tsx
+  h_2c3c1de054c74d 2,8,12,14-15,18-36,38
+src/packages/input/demos/taro/demo14.tsx
+  h_2c3c1de054c74d 2,6,14
+src/packages/input/demos/taro/demo15.tsx
+  h_2c3c1de054c74d 2,6-11
+src/packages/input/demos/taro/demo16.tsx
+  h_2c3c1de054c74d 2,6-12
+src/packages/input/demos/taro/demo2.tsx
+  h_2c3c1de054c74d 2,6,8
+src/packages/input/demos/taro/demo3.tsx
+  h_2c3c1de054c74d 2,7,13
+src/packages/input/demos/taro/demo4.tsx
+  h_2c3c1de054c74d 2,6-13
+src/packages/input/demos/taro/demo5.tsx
+  h_2c3c1de054c74d 2,6-11
+src/packages/input/demos/taro/demo6.tsx
+  h_2c3c1de054c74d 2,7-12
+src/packages/input/demos/taro/demo7.tsx
+  h_2c3c1de054c74d 3,8-15,18-36
+src/packages/input/demos/taro/demo8.tsx
+  h_2c3c1de054c74d 3,8,11-15,18-23,25,28-36,38
+src/packages/input/demos/taro/demo9.tsx
+  h_2c3c1de054c74d 2,9,13,15-16,19-36,38
+src/packages/searchbar/demos/h5/demo1.tsx
+  h_2c3c1de054c74d 20,38
+src/packages/searchbar/demos/h5/demo13.tsx
+  h_2c3c1de054c74d 24
+src/packages/searchbar/demos/taro/demo1.tsx
+  h_2c3c1de054c74d 21,39
+src/packages/searchbar/demos/taro/demo13.tsx
+  h_2c3c1de054c74d 25
+src/packages/tag/tag.scss
+  h_2c3c1de054c74d 33
+src/styles/theme-default.scss
+  h_2c3c1de054c74d 72
+src/types/index.ts
+  h_2c3c1de054c74d 181-184
+src/types/spec/materialview/base.ts
+  h_2c3c1de054c74d 1-35
+src/types/spec/materialview/h5.ts
+  h_2c3c1de054c74d 1-3
+src/types/spec/materialview/taro.ts
+  h_2c3c1de054c74d 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "28880d5c9430d0c230205fb9569b8acbbe25e9fb",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
