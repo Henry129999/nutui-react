@@ -1,0 +1,40 @@
+src/packages/tabbar/__tests__/tabbar.spec.tsx
+  s_20d34c7e0b9a1a::t_c7eb1c7fb8e47d 52-85
+src/packages/tabbar/doc.en-US.md
+  s_20d34c7e0b9a1a::t_41c677de388bab 180-182
+src/packages/tabbar/doc.md
+  s_20d34c7e0b9a1a::t_0fe6d3d283a59a 180-182
+src/packages/tabbar/doc.taro.md
+  s_20d34c7e0b9a1a::t_f655e668867161 180-182
+src/packages/tabbar/doc.zh-TW.md
+  s_20d34c7e0b9a1a::t_705fe214a6ae79 180-182
+src/packages/tabbar/tabbar.scss
+  s_20d34c7e0b9a1a::t_7430e5d44aeb47 4-6,93-124,197-220
+src/packages/tabbar/tabbar.taro.tsx
+  s_20d34c7e0b9a1a::t_11a60f53b9c1ae 1,63-71,98-100,104-108,114-148
+src/packages/tabbar/tabbar.tsx
+  s_20d34c7e0b9a1a::t_d51a0129b74383 1,64-72,99-101,105-109,119-153
+src/packages/tabbaritem/tabbaritem.scss
+  s_20d34c7e0b9a1a::t_b44151b4e7afd8 150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5c0f78944ceb62abc192e2387f502a68149ade4e",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_20d34c7e0b9a1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15e5c-6563-7d61-bbd1-6b853caecf28",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
