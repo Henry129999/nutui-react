@@ -1,0 +1,38 @@
+src/packages/tabbar/doc.en-US.md
+  s_20d34c7e0b9a1a::t_99315c37dd59b4 178
+src/packages/tabbar/doc.md
+  s_20d34c7e0b9a1a::t_13f3b37c57c482 178
+src/packages/tabbar/doc.taro.md
+  s_20d34c7e0b9a1a::t_7f21925e2c4624 178
+src/packages/tabbar/doc.zh-TW.md
+  s_20d34c7e0b9a1a::t_39108383dd9dc6 178
+src/styles/variables-daojia.scss
+  s_20d34c7e0b9a1a::t_bf8142bff2cf7e 908
+src/styles/variables-jmapp.scss
+  s_20d34c7e0b9a1a::t_f3bde88603d8a1 1469
+src/styles/variables-jrkf.scss
+  s_20d34c7e0b9a1a::t_ea472e0461cbbb 1563
+src/styles/variables.scss
+  s_20d34c7e0b9a1a::t_d9fa9865c66642 1417
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac506eed29344925cd090526714061f9771a8ec8",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_20d34c7e0b9a1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15e5c-6563-7d61-bbd1-6b853caecf28",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
