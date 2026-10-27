@@ -1,0 +1,51 @@
+src/packages/tabbar/demos/h5/demo2.tsx
+  h_2c3c1de054c74d 7
+  s_6bb13e74e4591f::t_b83e08df1bfea8 6,23-27
+src/packages/tabbar/demos/h5/demo1.tsx
+  s_6bb13e74e4591f::t_cb4d153ad78471 8-9,22-25
+src/packages/tabbar/demos/h5/demo3.tsx
+  s_6bb13e74e4591f::t_ea52345a21e5c8 6-7,27-35
+src/packages/tabbar/demos/h5/demo5.tsx
+  s_6bb13e74e4591f::t_8a46913a85ee74 3,26-28
+src/packages/tabbar/demos/h5/demo7.tsx
+  s_6bb13e74e4591f::t_722a29b4b9695b 6-7,28-31
+src/packages/tabbar/demos/h5/demo8.tsx
+  s_6bb13e74e4591f::t_50bbd51d814396 8-9,22-25
+src/packages/tabbar/demos/h5/demo9.tsx
+  s_6bb13e74e4591f::t_0c107ba324093e 6-7,48-51
+src/packages/tabbar/demos/taro/demo1.tsx
+  s_6bb13e74e4591f::t_0e56e22be13f18 8-9,22-25
+src/packages/tabbar/demos/taro/demo2.tsx
+  s_6bb13e74e4591f::t_56678eaa9aad71 6-7,23-27
+src/packages/tabbar/demos/taro/demo3.tsx
+  s_6bb13e74e4591f::t_a2786b42e20fdc 6-7,19-21
+src/packages/tabbar/demos/taro/demo5.tsx
+  s_6bb13e74e4591f::t_382cb989ab6970 3-10,42-44
+src/packages/tabbar/demos/taro/demo7.tsx
+  s_6bb13e74e4591f::t_ebd875218d7cad 6-7,28-31
+src/packages/tabbar/demos/taro/demo8.tsx
+  s_6bb13e74e4591f::t_a352bf2b9d3eab 8-9,22-25
+src/packages/tabbar/demos/taro/demo9.tsx
+  s_6bb13e74e4591f::t_82eeeee9d1a2ed 6-7,47-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f4cdb5e1be0286e5de23bbfbb1a9a62eff17f1a8",
+  "prompts": {},
+  "humans": {
+    "h_2c3c1de054c74d": {
+      "author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_6bb13e74e4591f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13a56-c106-7692-a7e3-0b3d35dd655e",
+        "model": "unknown"
+      },
+      "human_author": "Henry129999 <Henry129999@users.noreply.github.com>"
+    }
+  }
+}
